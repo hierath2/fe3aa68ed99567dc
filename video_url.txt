@@ -1,0 +1,5 @@
+Player URL:
+https://hierath2.github.io/player/?list=https://raw.githubusercontent.com/hierath2/fe3aa68ed99567dc/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/hierath2/fe3aa68ed99567dc/refs/heads/master/github_master.m3u8
